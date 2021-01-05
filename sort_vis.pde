@@ -86,6 +86,11 @@ public void BubbleSort(int[] array) {
                 }
 }
 
+public void QuickSort(int[] array) {
+  int n = array.lenght()
+  print(n)
+
+}
 
 
 
